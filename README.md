@@ -40,6 +40,6 @@ By the end, you have your **own portable library** (`libft.a`) to use in future 
 Clone and build:
 
 ```bash
-git clone https://github.com/FinnNPC/libft.git
+git clone git@github.com:FinnNPC/libft.git
 cd libft
 make
