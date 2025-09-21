@@ -43,6 +43,3 @@ Clone and build:
 git clone git@github.com:FinnNPC/libft.git
 cd libft
 make
-
-
-[![Subject PDF](https://img.shields.io/badge/📄-Subject-blue)](D:\التنزيلات\1337\Student's thingies\libft.pdf)
